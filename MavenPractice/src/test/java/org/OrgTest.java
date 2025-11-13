@@ -10,6 +10,11 @@ public class OrgTest {
 	}
 	
 	@Test
+	public void modifyOrgTest() {
+		System.out.println("Organization Modified");
+	}
+	
+	@Test
 	public void deleteOrgTest() {
 		System.out.println("Organization Deleted");
 	}
